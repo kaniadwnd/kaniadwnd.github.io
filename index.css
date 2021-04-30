@@ -1,0 +1,40 @@
+h1 {
+      text-align: center
+    }
+    h2 {
+      color: whitesmoke
+    }
+    h1 {
+      background-color: #827F7F;
+    }
+
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    table, th, td {
+    border: 5px solid white;
+    border-collapse: collapse;
+    }
+    
+    th,td {
+      padding: 15px
+    }
+    table.center {
+    margin-left: auto;
+    margin-right: auto;
+    }
+    td {
+      color: white ; font-size: 32px; text-align: left
+    }
+    img {
+    border: 10px solid #FFFFFF;
+    }
+    p {
+      color:white;
+    }
+    p {
+      background-color: dimgrey; font-size: 12px
+    }
+  </style>
