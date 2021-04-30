@@ -1,11 +1,12 @@
-body {
-background-color: whitesmoke;
-}
-h1 {
+    body {
+      background-color: whitesmoke;
+    }
+    
+    h1 {
       text-align: center;
     }
     h2 {
-      color: yellow;
+      color: whitesmoke; text-align:center;
     }
     h1 {
       background-color: #827F7F;
@@ -16,13 +17,14 @@ h1 {
       margin-left: auto;
       margin-right: auto;
     }
+   
     table, th, td {
     border: 5px solid white;
     border-collapse: collapse;
     }
     
     th,td {
-      padding: 15px;
+      padding: 15px
     }
     table.center {
     margin-left: auto;
@@ -38,6 +40,8 @@ h1 {
       color:white;
     }
     p {
-      background-color: dimgrey; font-size: 12px;
+      background-color: dimgrey; font-size: 12px
     }
-  </style>
+    table {
+      width: 100%;
+    }
