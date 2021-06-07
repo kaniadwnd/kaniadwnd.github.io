@@ -1,0 +1,48 @@
+body {
+	min-height: 3000px;
+}
+
+
+.jumbotron {
+	padding-top: 5rem;
+	background-color: #C1C2AD;
+}
+
+table {
+	width: 75%
+}
+
+table,th,td {
+	background-color: #535E4b;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+tr,td {
+	padding: 15px
+
+}
+
+td {
+	color: white; font-size: 20px;
+	text-align: left;;
+	font-family: 'Concert One', cursive;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer{
+	background-color: #535E4b;
+}
+
+h2 {
+	font-family: 'Staatliches', cursive;
+	font-size: 42px
+}
+
+section {
+	padding-top: 5rem;
+}
